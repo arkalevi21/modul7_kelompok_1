@@ -1,0 +1,16 @@
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/modul7_kelompok_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/modul7_kelompok_1.AssemblyInfoInputs.cache
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/modul7_kelompok_1.AssemblyInfo.cs
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/modul7_kelompok_1.csproj.CoreCompileInputs.cache
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/modul7_kelompok_1.sourcelink.json
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/bin/Debug/net9.0/modul7_kelompok_1
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/bin/Debug/net9.0/modul7_kelompok_1.deps.json
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/bin/Debug/net9.0/modul7_kelompok_1.runtimeconfig.json
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/bin/Debug/net9.0/modul7_kelompok_1.dll
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/bin/Debug/net9.0/modul7_kelompok_1.pdb
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/modul7_kelompok_1.dll
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/refint/modul7_kelompok_1.dll
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/modul7_kelompok_1.pdb
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/modul7_kelompok_1.genruntimeconfig.cache
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/obj/Debug/net9.0/ref/modul7_kelompok_1.dll
+/Users/arkalevi/RiderProjects/modul7_kelompok_1/modul7_kelompok_1/bin/Debug/net9.0/jurnal7_1_103082400051.json
